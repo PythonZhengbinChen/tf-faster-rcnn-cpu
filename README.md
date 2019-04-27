@@ -1,4 +1,4 @@
-具体CPU版本实现方式请参考CSDN博客：https://mp.csdn.net/postedit/84727082
+具体CPU版本实现方式请参考CSDN博客：https://blog.csdn.net/qq_26894673/article/details/84727082
 # tf-faster-rcnn is deprecated:
 For a good and more up-to-date implementation for faster/mask RCNN with multi-gpu support, please see the example in TensorPack [here](https://github.com/tensorpack/tensorpack/tree/master/examples/FasterRCNN).
 
